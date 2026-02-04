@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
+ 
 - 🔭 I’m currently working on Python fundamentals
 
 - 🌱 I’m currently learning Python with DSA & System Design basics
