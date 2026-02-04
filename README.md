@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python with DSA & System Design basics
 
-- 👯 I’m looking to collaborate on Beginner-friendly Python projects,Learning-focused AI/ML projects
+- 👯 I’m looking to collaborate on Beginner-friendly Python projects, Learning-focused AI/ML projects
 
 - 📫 How to reach me
   * 📧 Mail :sagagouthamsai@gmail.com
