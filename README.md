@@ -1,6 +1,6 @@
-## Hey there 👋,I’m Goutham Sai
+##<h1 align="center"> Hey there 👋,I’m Goutham Sai
 
-A passionate software developmer from India 🇮🇳
+<h3 align="center">A passionate software developmer from India 🇮🇳
 
 <!--
 **sagagouthamsai/sagagouthamsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
