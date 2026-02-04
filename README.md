@@ -1,5 +1,5 @@
-<h1 align="center"> Hey there 👋,I’m Goutham Sai
-<h3 align="center">A passionate software developmer from India 🇮🇳
+<h1 align="center"> Hey there 👋,I’m Goutham Sai</h1>
+<h3 align="center">A passionate software developmer from India 🇮🇳</h3>
 
 <!--
 **sagagouthamsai/sagagouthamsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me
   * 📧 Mail :sagagouthamsai@gmail.com
-  * 💼 Linkedin : https://www.linkedin.com/in/sagagouthamsai/
+  * 💼 Linkedin : https://www.linkedin.com/in/sagagouthamsai/</p>
  
